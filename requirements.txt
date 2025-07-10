@@ -1,0 +1,124 @@
+# AI/ML Complete Learning Path - Requirements
+# This file contains all packages needed for the complete learning journey
+
+# ================================
+# Core Data Science & ML (Modules 1-2)
+# ================================
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+plotly>=5.0.0
+scipy>=1.7.0
+
+# ================================
+# Deep Learning & LLMs (Modules 3-4)
+# ================================
+torch>=1.11.0
+torchvision>=0.12.0
+torchaudio>=0.11.0
+transformers>=4.18.0
+accelerate>=0.18.0
+datasets>=2.0.0
+tokenizers>=0.12.0
+
+# Alternative: TensorFlow (choose one)
+# tensorflow>=2.8.0
+# keras>=2.8.0
+
+# ================================
+# RAG & Vector Databases (Module 4)
+# ================================
+langchain>=0.1.0
+chromadb>=0.3.0
+faiss-cpu>=1.7.0
+sentence-transformers>=2.2.0
+pinecone-client>=2.2.0
+
+# ================================
+# Neural Networks from Scratch (Module 5)
+# ================================
+# Uses core packages above (numpy, matplotlib, torch)
+
+# ================================
+# MLOps & Production (Module 6)
+# ================================
+mlflow>=1.24.0
+dvc>=2.10.0
+fastapi>=0.75.0
+uvicorn>=0.17.0
+pydantic>=1.9.0
+requests>=2.27.0
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
+
+# ================================
+# AI Agents (Modules 7-8)
+# ================================
+openai>=1.0.0
+anthropic>=0.3.0
+autogen-agentchat>=0.2.0
+crewai>=0.1.0
+redis>=4.0.0
+celery>=5.2.0
+
+# ================================
+# Development & Utilities
+# ================================
+tqdm>=4.62.0
+python-dotenv>=0.19.0
+pillow>=8.3.0
+python-dateutil>=2.8.0
+pytz>=2021.1
+rich>=12.0.0
+
+# ================================
+# Jupyter & Notebook Extensions
+# ================================
+jupyterlab>=3.0.0
+nbconvert>=6.0.0
+ipykernel>=6.0.0
+
+# ================================
+# Optional: Computer Vision (if needed)
+# ================================
+opencv-python>=4.5.0
+albumentations>=1.1.0
+
+# ================================
+# Optional: NLP Libraries
+# ================================
+spacy>=3.4.0
+nltk>=3.7.0
+textblob>=0.17.0
+
+# ================================
+# Optional: Time Series
+# ================================
+statsmodels>=0.13.0
+prophet>=1.0.0
+
+# ================================
+# Optional: Hyperparameter Tuning
+# ================================
+optuna>=3.0.0
+hyperopt>=0.2.0
+
+# ================================
+# Optional: Visualization
+# ================================
+bokeh>=2.4.0
+altair>=4.2.0
+wordcloud>=1.8.0
+
+# ================================
+# Development Tools
+# ================================
+pre-commit>=2.17.0
+mypy>=0.931
+bandit>=1.7.0
+safety>=1.10.0
