@@ -31,8 +31,22 @@ AI-ML-Complete-Learning-Path/
 │
 ├── 🧩 Projects
 │   ├── beginner/          # Foundational projects (Modules 1-2)
+│   │   ├── House Price Predictor
+│   │   ├── Customer Segmentation  
+│   │   ├── Email Spam Classifier
+│   │   └── Movie Recommendation System
 │   ├── intermediate/      # Advanced projects (Modules 3-5)
+│   │   ├── LLM Text Classification
+│   │   ├── Semantic Search Engine
+│   │   ├── RAG Systems & Graph RAG
+│   │   ├── Neural Networks from Scratch
+│   │   └── Advanced RAG Techniques
 │   └── advanced/          # Production projects (Modules 6-8)
+│       ├── End-to-End ML Pipelines
+│       ├── Multi-Agent AI Systems
+│       ├── Production Agent Deployment
+│       ├── Enterprise AI Platforms
+│       └── Capstone Projects
 │
 └── 🔧 Configuration Files
     ├── requirements.txt   # Python dependencies
