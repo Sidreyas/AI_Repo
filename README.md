@@ -1,4 +1,4 @@
-# 🤖 AI Learning Hub - Your Complete Journey to AI Mastery
+# AI Learning Hub - Your Complete Journey to AI Mastery
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
