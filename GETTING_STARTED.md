@@ -4,23 +4,21 @@ Welcome to your AI/ML learning journey! This guide will help you set up your env
 
 ## 📋 Prerequisites
 
-### Essential Skills (Required)
+### Essential Skills
 - **Programming**: Basic Python knowledge (variables, functions, loops, classes)
 - **Mathematics**: High school algebra and basic statistics
 - **Computer Literacy**: File management, command line basics
-- **English**: Ability to read technical documentation
 
-### Helpful (But Not Required)
+### Helpful (Optional)
 - **Linear Algebra**: Vectors, matrices, basic operations
-- **Calculus**: Derivatives and gradients (useful for advanced modules)
+- **Calculus**: Derivatives and gradients
 - **Statistics**: Probability distributions, hypothesis testing
-- **Prior ML Exposure**: Any previous machine learning coursework
 
 ## 💻 Environment Setup
 
 ### Step 1: Install Python
 
-**Option A: Anaconda (Recommended for Beginners)**
+**Option A: Anaconda (Recommended)**
 ```bash
 # Download from https://www.anaconda.com/download
 # Includes Python, Jupyter, and common data science packages
@@ -50,24 +48,16 @@ brew install git
 - **PyCharm Community**: Free IDE for Python
 - **Jupyter Notebook**: Comes with Anaconda or install via `pip install jupyter`
 
-### Step 3: Create Learning Environment
+### Step 3: Module-Specific Setup
+Refer to the README.md files in each module directory for detailed setup instructions.
 
+### Deployment Instructions
+For GitHub deployment:
 ```bash
-# Clone this repository
-git clone <your-repo-url>
-cd AI_Github
-
-# Create virtual environment
-python -m venv ai_learning_env
-
-# Activate environment
-# Linux/macOS:
-source ai_learning_env/bin/activate
-# Windows:
-ai_learning_env\Scripts\activate
-
-# Install base requirements
-pip install numpy pandas matplotlib seaborn jupyter notebook
+# Create new GitHub repository (don't initialize with files)
+# Then run:
+git remote add origin https://github.com/YOUR-USERNAME/REPO-NAME.git
+git push -u origin main
 ```
 
 ## 🎯 Module-Specific Requirements

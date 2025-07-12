@@ -1,20 +1,20 @@
 # 📋 Repository Structure Summary
 
-## 🎯 What We've Accomplished
+## 🎯 Unified Learning Path
 
-This repository has been transformed from 8 separate AI/ML learning repositories into a **unified, progressive learning path** that takes learners from complete beginners to production-ready AI practitioners.
+This repository combines 8 separate AI/ML learning modules into a progressive learning path, taking learners from beginners to production-ready AI practitioners.
 
-## 🏗️ New Structure Overview
+## 🏗️ Structure Overview
 
 ```
 AI-ML-Complete-Learning-Path/
-├── 📖 Core Documentation
+├── 📚 Core Documentation
 │   ├── README.md           # Master overview and navigation
-│   ├── GETTING_STARTED.md  # Setup guide and prerequisites  
+│   ├── GETTING_STARTED.md  # Setup guide and prerequisites
 │   ├── ROADMAP.md          # Detailed learning timeline
 │   └── LICENSE             # MIT license with attributions
 │
-├── 📚 Learning Modules (Progressive Order)
+├── 📖 Learning Modules
 │   ├── 1.AI-For-Beginners/             # AI concepts & foundations
 │   ├── 2.ML-For-Beginners/             # Machine learning fundamentals
 │   ├── 3.Hands-On-Large-Language-Models/  # LLM mastery
@@ -29,16 +29,18 @@ AI-ML-Complete-Learning-Path/
 │   ├── datasets/           # Consolidated datasets
 │   └── additional-reading/ # Supplementary materials
 │
-├── 💼 Projects by Difficulty
+├── 🧩 Projects
 │   ├── beginner/          # Foundational projects (Modules 1-2)
 │   ├── intermediate/      # Advanced projects (Modules 3-5)
 │   └── advanced/          # Production projects (Modules 6-8)
 │
 └── 🔧 Configuration Files
-    ├── requirements.txt   # All Python dependencies
-    ├── .gitignore        # Git ignore patterns
-    └── STRUCTURE.md      # This file
+    ├── requirements.txt   # Python dependencies
+    ├── .gitignore         # Git ignore patterns
+    └── STRUCTURE.md       # This file
 ```
+
+Refer to `GETTING_STARTED.md` for setup instructions and `README.md` for navigation.
 
 ## 🚀 Key Improvements Made
 
